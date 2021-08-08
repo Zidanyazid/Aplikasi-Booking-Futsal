@@ -1,12 +1,13 @@
 # Aplikasi-Booking-Futsal
 Aplikasi Booking Futsal dengan menggunakan Java
-
-Kelompok  : Gayuh and the gank
+-
+Keompok  : Gayuh and the gank
+-
 Anggota   : Syahrul Dwiky Ramadhani, Arradhiya Setyo Panggayuh, Andhika Thoriq Tegar Setiaji, Zidan Yazid Himawan.
-
+-
 Aplikasi pembookingan lapangan futsal ini digunakan untuk mempermudah pemilik lapangan futsal atau customer yang ingin bermain futsal. 
 Pembooking tidak perlu datang langsung ke tempat dikarenakan sekarang pemesanan dapat dilakukan lewat online menggunakan aplikasi ini.
-
+-
 ![login](https://user-images.githubusercontent.com/88048588/128624801-e2179bde-a541-4fec-a003-345a4f6b99b3.png)
 ![pilihan](https://user-images.githubusercontent.com/88048588/128624808-061c0fb3-8bff-4084-889f-6270e194ccc3.png)
 ![menu utama](https://user-images.githubusercontent.com/88048588/128624812-33976c3b-cfc6-4686-a80e-8f17e5691d85.png)
